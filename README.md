@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I004
 ### Team Details
-#### **Team Name** <ZENITH>
+#### **Team Name** <<ZENITH>>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |    STATUS       |    HOSTEL NAME    |   
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------:|:-----------------:|
